@@ -1,0 +1,17 @@
+# Wiki GitHub (repository terpisah)
+Blogspot-PPB.wiki/
+
+# Kotlin/Java build outputs
+build/
+.gradle/
+*.jar
+*.war
+*.ear
+*.class
+local.properties
+*.iml
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
